@@ -1,7 +1,7 @@
 <h1 align="center">Kaeon Java Utilities</h1>
 
 <p align="center">
-	<img src="https://png.icons8.com/color/1600/java-coffee-cup-logo.png" width="300px" height="300px"/>
+	<img src="http://assets.stickpng.com/images/58480979cef1014c0b5e4901.png" width="300px" height="300px"/>
 </p>
 
 The Kaeon Java Utilities are a set of general purpose Java libraries that projects under the Kaeon name use in their Java implementations.
